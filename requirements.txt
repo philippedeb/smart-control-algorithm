@@ -1,0 +1,2 @@
+# Install requirements using: pip install -r requirements.txt
+numpy==1.21.5
