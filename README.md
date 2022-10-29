@@ -1,6 +1,8 @@
 # Smart control algorithm
 This repository contains a concise implementation of the smart control algorithm proposed in a research paper by Philippe de Bekker. Based on analysing various designed cases, the paper defined the heuristics of a smart control algorithm that matches power supply and demand optimally. The core of improvement of the smart control algorithm is exploiting future knowledge, which can be realized by current state-of-the-art forecasting techniques, to effectively store and trade energy. In addition, a simulation environment is provided.
 
+[![DOI](https://zenodo.org/badge/559328784.svg)](https://zenodo.org/badge/latestdoi/559328784)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to run this repository.
